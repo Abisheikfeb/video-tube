@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Abisheikfeb.github.io/video-tube/static/css/main.37c0ff32.css",
-    "main.js": "/Abisheikfeb.github.io/video-tube/static/js/main.f816bae5.js",
+    "main.js": "/Abisheikfeb.github.io/video-tube/static/js/main.b355574f.js",
     "static/media/viewtube_word.png": "/Abisheikfeb.github.io/video-tube/static/media/viewtube_word.04ff22eb121f69839a4e.png",
     "static/media/viewtube_logo.png": "/Abisheikfeb.github.io/video-tube/static/media/viewtube_logo.ecb37b175428538ad09c.png",
     "index.html": "/Abisheikfeb.github.io/video-tube/index.html",
     "main.37c0ff32.css.map": "/Abisheikfeb.github.io/video-tube/static/css/main.37c0ff32.css.map",
-    "main.f816bae5.js.map": "/Abisheikfeb.github.io/video-tube/static/js/main.f816bae5.js.map"
+    "main.b355574f.js.map": "/Abisheikfeb.github.io/video-tube/static/js/main.b355574f.js.map"
   },
   "entrypoints": [
     "static/css/main.37c0ff32.css",
-    "static/js/main.f816bae5.js"
+    "static/js/main.b355574f.js"
   ]
 }
