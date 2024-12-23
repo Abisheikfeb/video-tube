@@ -47,7 +47,8 @@ const Header = () => {
 
   return (
     
-    <div className="sticky top-0 z-10 flex flex-row items-center justify-between h-14 px-4 md:px-5 bg-white dark:bg-black">
+    <div className="sticky top-0 z-10 flex flex-row items-center justify-between h-14 px-4 md:px-5 bg-pink-400 dark:bg-black">
+      <h1>my</h1>
       {loading && <Loader/> }
 
       <div className="flex h-5 items-center">
@@ -55,9 +56,9 @@ const Header = () => {
         
           <div className="flex md:hidden md:mr-6 cursor-pointer items-center justify-center h-10 w-10 rounded-full hover:bg-[#303030]/[0.6]"  onClick={mobileMenuToggle}>
             {mobileMenu ? (
-                <CgClose className='text-white text-xl'/>
+                <CgClose className='text-red-400 text-xl'/>
               ) : (
-                <SlMenu className='text-white text-xl'/>
+                <SlMenu className='text-pink-300 text-xl'/>
             )}
             
           </div>
