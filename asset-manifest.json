@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/video-tube/static/css/main.37c0ff32.css",
-    "main.js": "/video-tube/static/js/main.5be80c55.js",
+    "main.css": "/video-tube/static/css/main.7912c117.css",
+    "main.js": "/video-tube/static/js/main.5e686533.js",
     "static/media/viewtube_word.png": "/video-tube/static/media/viewtube_word.04ff22eb121f69839a4e.png",
     "static/media/viewtube_logo.png": "/video-tube/static/media/viewtube_logo.ecb37b175428538ad09c.png",
     "index.html": "/video-tube/index.html",
-    "main.37c0ff32.css.map": "/video-tube/static/css/main.37c0ff32.css.map",
-    "main.5be80c55.js.map": "/video-tube/static/js/main.5be80c55.js.map"
+    "main.7912c117.css.map": "/video-tube/static/css/main.7912c117.css.map",
+    "main.5e686533.js.map": "/video-tube/static/js/main.5e686533.js.map"
   },
   "entrypoints": [
-    "static/css/main.37c0ff32.css",
-    "static/js/main.5be80c55.js"
+    "static/css/main.7912c117.css",
+    "static/js/main.5e686533.js"
   ]
 }
